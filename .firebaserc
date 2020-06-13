@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "yashitech": "yashitechnologies",
+    "default": "yashitechnologies",
+    "reactredux": "yashitechnologies",
+    "reactreduxjeetu": "reactreduxjeetu"
+  }
+}
